@@ -124,6 +124,10 @@
     <source srcset="https://raw.githubusercontent.com/Izaacapp/Izaacapp/main/javascript-color.svg" media="(prefers-color-scheme: dark)">
     <img src="https://raw.githubusercontent.com/Izaacapp/Izaacapp/main/javascript-color.svg" width="24" height="24">
   </picture>
+  <picture>
+  <source srcset="https://raw.githubusercontent.com/Izaacapp/Izaacapp/main/typescript-color.svg" media="(prefers-color-scheme: dark)">
+  <img src="https://raw.githubusercontent.com/Izaacapp/Izaacapp/main/typescript-color.svg" width="24" height="24">
+</picture>
   <!-- Row 7 -->
    <picture>
     <source srcset="https://raw.githubusercontent.com/Izaacapp/Izaacapp/main/jupyter-color.svg" media="(prefers-color-scheme: dark)">
