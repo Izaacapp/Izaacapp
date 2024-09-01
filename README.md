@@ -209,25 +209,27 @@
     <source srcset="https://raw.githubusercontent.com/Izaacapp/Izaacapp/main/starship-color.svg" media="(prefers-color-scheme: dark)">
     <img src="https://raw.githubusercontent.com/Izaacapp/Izaacapp/main/starship-color.svg" width="48" height="48">
   </picture>
-  <!-- Row 12 (Bigger Icons) -->
+<!-- Row 12 (Adjusted Bigger Icons) -->
+<div align="center">
    <picture>
     <source srcset="https://raw.githubusercontent.com/Izaacapp/Izaacapp/main/Cephalostatine-1.svg" media="(prefers-color-scheme: dark)">
-    <img src="https://raw.githubusercontent.com/Izaacapp/Izaacapp/main/Cephalostatine-1.svg" width="96" height="96">
+    <img src="https://raw.githubusercontent.com/Izaacapp/Izaacapp/main/Cephalostatine-1.svg" width="120" height="80">
   </picture>
    <picture>
     <source srcset="https://raw.githubusercontent.com/Izaacapp/Izaacapp/main/Kalialt.svg" media="(prefers-color-scheme: dark)">
-    <img src="https://raw.githubusercontent.com/Izaacapp/Izaacapp/main/Kalialt.svg" width="120" height="96">
+    <img src="https://raw.githubusercontent.com/Izaacapp/Izaacapp/main/Kalialt.svg" width="100" height="100">
   </picture>
    <picture>
     <source srcset="https://raw.githubusercontent.com/Izaacapp/Izaacapp/main/MacPorts_Logo.svg" media="(prefers-color-scheme: dark)">
-    <img src="https://raw.githubusercontent.com/Izaacapp/Izaacapp/main/MacPorts_Logo.svg" width="96" height="96">
+    <img src="https://raw.githubusercontent.com/Izaacapp/Izaacapp/main/MacPorts_Logo.svg" width="120" height="80">
   </picture>
    <picture>
     <source srcset="https://raw.githubusercontent.com/Izaacapp/Izaacapp/main/Parallels_logo.svg" media="(prefers-color-scheme: dark)">
-    <img src="https://raw.githubusercontent.com/Izaacapp/Izaacapp/main/Parallels_logo.svg" width="96" height="96">
+    <img src="https://raw.githubusercontent.com/Izaacapp/Izaacapp/main/Parallels_logo.svg" width="150" height="80">
   </picture>
    <picture>
     <source srcset="https://raw.githubusercontent.com/Izaacapp/Izaacapp/main/TexasInstruments-Logo.svg" media="(prefers-color-scheme: dark)">
-    <img src="https://raw.githubusercontent.com/Izaacapp/Izaacapp/main/TexasInstruments-Logo.svg" width="96" height="96">
+    <img src="https://raw.githubusercontent.com/Izaacapp/Izaacapp/main/TexasInstruments-Logo.svg" width="150" height="80">
   </picture>
 </div>
+
