@@ -7,15 +7,16 @@
 
 ## Languages & Tools
 
+
 <div align="center">
   <!-- Row 1 -->
    <picture>
     <source srcset="https://raw.githubusercontent.com/Izaacapp/Izaacapp/main/Cephalostatine-1.svg" media="(prefers-color-scheme: dark)">
-    <img src="https://raw.githubusercontent.com/Izaacapp/Izaacapp/main/Cephalostatine-1.svg" width="30" height="30">
+    <img src="https://raw.githubusercontent.com/Izaacapp/Izaacapp/main/Cephalostatine-1.svg" width="24" height="24">
   </picture>
-  <picture>
+   <picture>
     <source srcset="https://raw.githubusercontent.com/Izaacapp/Izaacapp/main/Kalialt.svg" media="(prefers-color-scheme: dark)">
-    <img src="https://raw.githubusercontent.com/Izaacapp/Izaacapp/main/Kalialt.svg" width="30" height="30">
+    <img src="https://raw.githubusercontent.com/Izaacapp/Izaacapp/main/Kalialt.svg" width="24" height="24">
   </picture>
    <picture>
     <source srcset="https://raw.githubusercontent.com/Izaacapp/Izaacapp/main/MacPorts_Logo.svg" media="(prefers-color-scheme: dark)">
@@ -39,6 +40,10 @@
     <img src="https://raw.githubusercontent.com/Izaacapp/Izaacapp/main/anaconda-color.svg" width="24" height="24">
   </picture>
    <picture>
+    <source srcset="https://raw.githubusercontent.com/Izaacapp/Izaacapp/main/anaconda.svg" media="(prefers-color-scheme: dark)">
+    <img src="https://raw.githubusercontent.com/Izaacapp/Izaacapp/main/anaconda.svg" width="24" height="24">
+  </picture>
+   <picture>
     <source srcset="https://raw.githubusercontent.com/Izaacapp/Izaacapp/main/archlinux-color.svg" media="(prefers-color-scheme: dark)">
     <img src="https://raw.githubusercontent.com/Izaacapp/Izaacapp/main/archlinux-color.svg" width="24" height="24">
   </picture>
@@ -51,6 +56,11 @@
     <img src="https://raw.githubusercontent.com/Izaacapp/Izaacapp/main/c-color.svg" width="24" height="24">
   </picture>
    <picture>
+    <source srcset="https://raw.githubusercontent.com/Izaacapp/Izaacapp/main/c.svg" media="(prefers-color-scheme: dark)">
+    <img src="https://raw.githubusercontent.com/Izaacapp/Izaacapp/main/c.svg" width="24" height="24">
+  </picture>
+  <!-- Row 3 -->
+   <picture>
     <source srcset="https://raw.githubusercontent.com/Izaacapp/Izaacapp/main/codeproject-color.svg" media="(prefers-color-scheme: dark)">
     <img src="https://raw.githubusercontent.com/Izaacapp/Izaacapp/main/codeproject-color.svg" width="24" height="24">
   </picture>
@@ -58,7 +68,6 @@
     <source srcset="https://raw.githubusercontent.com/Izaacapp/Izaacapp/main/cplusplus.svg" media="(prefers-color-scheme: dark)">
     <img src="https://raw.githubusercontent.com/Izaacapp/Izaacapp/main/cplusplus.svg" width="24" height="24">
   </picture>
-  <!-- Row 3 -->
    <picture>
     <source srcset="https://raw.githubusercontent.com/Izaacapp/Izaacapp/main/css-file-outline-icon.svg" media="(prefers-color-scheme: dark)">
     <img src="https://raw.githubusercontent.com/Izaacapp/Izaacapp/main/css-file-outline-icon.svg" width="24" height="24">
@@ -75,6 +84,11 @@
     <source srcset="https://raw.githubusercontent.com/Izaacapp/Izaacapp/main/dotenv-color.svg" media="(prefers-color-scheme: dark)">
     <img src="https://raw.githubusercontent.com/Izaacapp/Izaacapp/main/dotenv-color.svg" width="24" height="24">
   </picture>
+  <!-- Row 4 -->
+   <picture>
+    <source srcset="https://raw.githubusercontent.com/Izaacapp/Izaacapp/main/dotenv.svg" media="(prefers-color-scheme: dark)">
+    <img src="https://raw.githubusercontent.com/Izaacapp/Izaacapp/main/dotenv.svg" width="24" height="24">
+  </picture>
    <picture>
     <source srcset="https://raw.githubusercontent.com/Izaacapp/Izaacapp/main/elixir-color.svg" media="(prefers-color-scheme: dark)">
     <img src="https://raw.githubusercontent.com/Izaacapp/Izaacapp/main/elixir-color.svg" width="24" height="24">
@@ -83,14 +97,26 @@
     <source srcset="https://raw.githubusercontent.com/Izaacapp/Izaacapp/main/git-color.svg" media="(prefers-color-scheme: dark)">
     <img src="https://raw.githubusercontent.com/Izaacapp/Izaacapp/main/git-color.svg" width="24" height="24">
   </picture>
-  <!-- Row 4 -->
+   <picture>
+    <source srcset="https://raw.githubusercontent.com/Izaacapp/Izaacapp/main/git.svg" media="(prefers-color-scheme: dark)">
+    <img src="https://raw.githubusercontent.com/Izaacapp/Izaacapp/main/git.svg" width="24" height="24">
+  </picture>
    <picture>
     <source srcset="https://raw.githubusercontent.com/Izaacapp/Izaacapp/main/gnu-color.svg" media="(prefers-color-scheme: dark)">
     <img src="https://raw.githubusercontent.com/Izaacapp/Izaacapp/main/gnu-color.svg" width="24" height="24">
   </picture>
    <picture>
+    <source srcset="https://raw.githubusercontent.com/Izaacapp/Izaacapp/main/gnu.svg" media="(prefers-color-scheme: dark)">
+    <img src="https://raw.githubusercontent.com/Izaacapp/Izaacapp/main/gnu.svg" width="24" height="24">
+  </picture>
+  <!-- Row 5 -->
+   <picture>
     <source srcset="https://raw.githubusercontent.com/Izaacapp/Izaacapp/main/gnubash-color.svg" media="(prefers-color-scheme: dark)">
     <img src="https://raw.githubusercontent.com/Izaacapp/Izaacapp/main/gnubash-color.svg" width="24" height="24">
+  </picture>
+   <picture>
+    <source srcset="https://raw.githubusercontent.com/Izaacapp/Izaacapp/main/gnubash.svg" media="(prefers-color-scheme: dark)">
+    <img src="https://raw.githubusercontent.com/Izaacapp/Izaacapp/main/gnubash.svg" width="24" height="24">
   </picture>
    <picture>
     <source srcset="https://raw.githubusercontent.com/Izaacapp/Izaacapp/main/go-color.svg" media="(prefers-color-scheme: dark)">
@@ -108,7 +134,11 @@
     <source srcset="https://raw.githubusercontent.com/Izaacapp/Izaacapp/main/htmx-color.svg" media="(prefers-color-scheme: dark)">
     <img src="https://raw.githubusercontent.com/Izaacapp/Izaacapp/main/htmx-color.svg" width="24" height="24">
   </picture>
-  <!-- Row 5 -->
+  <!-- Row 6 -->
+   <picture>
+    <source srcset="https://raw.githubusercontent.com/Izaacapp/Izaacapp/main/htmx.svg" media="(prefers-color-scheme: dark)">
+    <img src="https://raw.githubusercontent.com/Izaacapp/Izaacapp/main/htmx.svg" width="24" height="24">
+  </picture>
    <picture>
     <source srcset="https://raw.githubusercontent.com/Izaacapp/Izaacapp/main/ibm-icon.svg" media="(prefers-color-scheme: dark)">
     <img src="https://raw.githubusercontent.com/Izaacapp/Izaacapp/main/ibm-icon.svg" width="24" height="24">
@@ -118,22 +148,30 @@
     <img src="https://raw.githubusercontent.com/Izaacapp/Izaacapp/main/instructables-color.svg" width="24" height="24">
   </picture>
    <picture>
+    <source srcset="https://raw.githubusercontent.com/Izaacapp/Izaacapp/main/instructables.svg" media="(prefers-color-scheme: dark)">
+    <img src="https://raw.githubusercontent.com/Izaacapp/Izaacapp/main/instructables.svg" width="24" height="24">
+  </picture>
+   <picture>
     <source srcset="https://raw.githubusercontent.com/Izaacapp/Izaacapp/main/java-icon.svg" media="(prefers-color-scheme: dark)">
     <img src="https://raw.githubusercontent.com/Izaacapp/Izaacapp/main/java-icon.svg" width="24" height="24">
   </picture>
    <picture>
-    <source srcset="https://raw.githubusercontent.com/Izaacapp/Izaacapp/main/javascript-color.svg" media="(prefers-color-scheme: dark)">
-    <img src="https://raw.githubusercontent.com/Izaacapp/Izaacapp/main/javascript-color.svg" width="24" height="24">
+    <source srcset="https://raw.githubusercontent.com/Izaacapp/Izaacapp/Izaacapp/main/javascript-color.svg" media="(prefers-color-scheme: dark)">
+    <img src="https://raw.githubusercontent.com/Izaacapp/Izaacapp/Izaacapp/main/javascript-color.svg" width="24" height="24">
   </picture>
+  <!-- Row 7 -->
    <picture>
     <source srcset="https://raw.githubusercontent.com/Izaacapp/Izaacapp/main/jupyter-color.svg" media="(prefers-color-scheme: dark)">
     <img src="https://raw.githubusercontent.com/Izaacapp/Izaacapp/main/jupyter-color.svg" width="24" height="24">
   </picture>
    <picture>
+    <source srcset="https://raw.githubusercontent.com/Izaacapp/Izaacapp/main/jupyter.svg" media="(prefers-color-scheme: dark)">
+    <img src="https://raw.githubusercontent.com/Izaacapp/Izaacapp/main/jupyter.svg" width="24" height="24">
+  </picture>
+   <picture>
     <source srcset="https://raw.githubusercontent.com/Izaacapp/Izaacapp/main/kalilinux-color.svg" media="(prefers-color-scheme: dark)">
     <img src="https://raw.githubusercontent.com/Izaacapp/Izaacapp/main/kalilinux-color.svg" width="24" height="24">
   </picture>
-  <!-- Row 6 -->
    <picture>
     <source srcset="https://raw.githubusercontent.com/Izaacapp/Izaacapp/main/kubernetes-color.svg" media="(prefers-color-scheme: dark)">
     <img src="https://raw.githubusercontent.com/Izaacapp/Izaacapp/main/kubernetes-color.svg" width="24" height="24">
@@ -145,6 +183,11 @@
    <picture>
     <source srcset="https://raw.githubusercontent.com/Izaacapp/Izaacapp/main/linux-color.svg" media="(prefers-color-scheme: dark)">
     <img src="https://raw.githubusercontent.com/Izaacapp/Izaacapp/main/linux-color.svg" width="24" height="24">
+  </picture>
+  <!-- Row 8 -->
+   <picture>
+    <source srcset="https://raw.githubusercontent.com/Izaacapp/Izaacapp/main/linux.svg" media="(prefers-color-scheme: dark)">
+    <img src="https://raw.githubusercontent.com/Izaacapp/Izaacapp/main/linux.svg" width="24" height="24">
   </picture>
    <picture>
     <source srcset="https://raw.githubusercontent.com/Izaacapp/Izaacapp/main/markdown.svg" media="(prefers-color-scheme: dark)">
@@ -158,11 +201,15 @@
     <source srcset="https://raw.githubusercontent.com/Izaacapp/Izaacapp/main/platformio-color.svg" media="(prefers-color-scheme: dark)">
     <img src="https://raw.githubusercontent.com/Izaacapp/Izaacapp/main/platformio-color.svg" width="24" height="24">
   </picture>
-  <!-- Row 7 -->
+   <picture>
+    <source srcset="https://raw.githubusercontent.com/Izaacapp/Izaacapp/main/platformio.svg" media="(prefers-color-scheme: dark)">
+    <img src="https://raw.githubusercontent.com/Izaacapp/Izaacapp/main/platformio.svg" width="24" height="24">
+  </picture>
    <picture>
     <source srcset="https://raw.githubusercontent.com/Izaacapp/Izaacapp/main/prisma-color.svg" media="(prefers-color-scheme: dark)">
     <img src="https://raw.githubusercontent.com/Izaacapp/Izaacapp/main/prisma-color.svg" width="24" height="24">
   </picture>
+  <!-- Row 9 -->
    <picture>
     <source srcset="https://raw.githubusercontent.com/Izaacapp/Izaacapp/main/pypi.svg" media="(prefers-color-scheme: dark)">
     <img src="https://raw.githubusercontent.com/Izaacapp/Izaacapp/main/pypi.svg" width="24" height="24">
@@ -172,18 +219,34 @@
     <img src="https://raw.githubusercontent.com/Izaacapp/Izaacapp/main/python-color.svg" width="24" height="24">
   </picture>
    <picture>
+    <source srcset="https://raw.githubusercontent.com/Izaacapp/Izaacapp/main/python.svg" media="(prefers-color-scheme: dark)">
+    <img src="https://raw.githubusercontent.com/Izaacapp/Izaacapp/main/python.svg" width="24" height="24">
+  </picture>
+   <picture>
     <source srcset="https://raw.githubusercontent.com/Izaacapp/Izaacapp/main/pytorch-color.svg" media="(prefers-color-scheme: dark)">
     <img src="https://raw.githubusercontent.com/Izaacapp/Izaacapp/main/pytorch-color.svg" width="24" height="24">
+  </picture>
+   <picture>
+    <source srcset="https://raw.githubusercontent.com/Izaacapp/Izaacapp/main/pytorch.svg" media="(prefers-color-scheme: dark)">
+    <img src="https://raw.githubusercontent.com/Izaacapp/Izaacapp/main/pytorch.svg" width="24" height="24">
   </picture>
    <picture>
     <source srcset="https://raw.githubusercontent.com/Izaacapp/Izaacapp/main/qiskit-color.svg" media="(prefers-color-scheme: dark)">
     <img src="https://raw.githubusercontent.com/Izaacapp/Izaacapp/main/qiskit-color.svg" width="24" height="24">
   </picture>
+  <!-- Row 10 -->
+   <picture>
+    <source srcset="https://raw.githubusercontent.com/Izaacapp/Izaacapp/main/qiskit.svg" media="(prefers-color-scheme: dark)">
+    <img src="https://raw.githubusercontent.com/Izaacapp/Izaacapp/main/qiskit.svg" width="24" height="24">
+  </picture>
    <picture>
     <source srcset="https://raw.githubusercontent.com/Izaacapp/Izaacapp/main/r-color.svg" media="(prefers-color-scheme: dark)">
     <img src="https://raw.githubusercontent.com/Izaacapp/Izaacapp/main/r-color.svg" width="24" height="24">
   </picture>
-  <!-- Row 8 -->
+   <picture>
+    <source srcset="https://raw.githubusercontent.com/Izaacapp/Izaacapp/main/r.svg" media="(prefers-color-scheme: dark)">
+    <img src="https://raw.githubusercontent.com/Izaacapp/Izaacapp/main/r.svg" width="24" height="24">
+  </picture>
    <picture>
     <source srcset="https://raw.githubusercontent.com/Izaacapp/Izaacapp/main/raspberrypi-color.svg" media="(prefers-color-scheme: dark)">
     <img src="https://raw.githubusercontent.com/Izaacapp/Izaacapp/main/raspberrypi-color.svg" width="24" height="24">
@@ -196,6 +259,7 @@
     <source srcset="https://raw.githubusercontent.com/Izaacapp/Izaacapp/main/rubyonrails-color.svg" media="(prefers-color-scheme: dark)">
     <img src="https://raw.githubusercontent.com/Izaacapp/Izaacapp/main/rubyonrails-color.svg" width="24" height="24">
   </picture>
+  <!-- Row 11 -->
    <picture>
     <source srcset="https://raw.githubusercontent.com/Izaacapp/Izaacapp/main/rust-color.svg" media="(prefers-color-scheme: dark)">
     <img src="https://raw.githubusercontent.com/Izaacapp/Izaacapp/main/rust-color.svg" width="24" height="24">
@@ -208,7 +272,10 @@
     <source srcset="https://raw.githubusercontent.com/Izaacapp/Izaacapp/main/sqlite-color.svg" media="(prefers-color-scheme: dark)">
     <img src="https://raw.githubusercontent.com/Izaacapp/Izaacapp/main/sqlite-color.svg" width="24" height="24">
   </picture>
-  <!-- Row 9 -->
+   <picture>
+    <source srcset="https://raw.githubusercontent.com/Izaacapp/Izaacapp/main/sqlite.svg" media="(prefers-color-scheme: dark)">
+    <img src="https://raw.githubusercontent.com/Izaacapp/Izaacapp/main/sqlite.svg" width="24" height="24">
+  </picture>
    <picture>
     <source srcset="https://raw.githubusercontent.com/Izaacapp/Izaacapp/main/ssh-icon.svg" media="(prefers-color-scheme: dark)">
     <img src="https://raw.githubusercontent.com/Izaacapp/Izaacapp/main/ssh-icon.svg" width="24" height="24">
@@ -217,13 +284,22 @@
     <source srcset="https://raw.githubusercontent.com/Izaacapp/Izaacapp/main/starship-color.svg" media="(prefers-color-scheme: dark)">
     <img src="https://raw.githubusercontent.com/Izaacapp/Izaacapp/main/starship-color.svg" width="24" height="24">
   </picture>
+  <!-- Row 12 -->
    <picture>
     <source srcset="https://raw.githubusercontent.com/Izaacapp/Izaacapp/main/svelte-color.svg" media="(prefers-color-scheme: dark)">
     <img src="https://raw.githubusercontent.com/Izaacapp/Izaacapp/main/svelte-color.svg" width="24" height="24">
   </picture>
    <picture>
+    <source srcset="https://raw.githubusercontent.com/Izaacapp/Izaacapp/main/svelte.svg" media="(prefers-color-scheme: dark)">
+    <img src="https://raw.githubusercontent.com/Izaacapp/Izaacapp/main/svelte.svg" width="24" height="24">
+  </picture>
+   <picture>
     <source srcset="https://raw.githubusercontent.com/Izaacapp/Izaacapp/main/tailwindcss-color.svg" media="(prefers-color-scheme: dark)">
     <img src="https://raw.githubusercontent.com/Izaacapp/Izaacapp/main/tailwindcss-color.svg" width="24" height="24">
+  </picture>
+   <picture>
+    <source srcset="https://raw.githubusercontent.com/Izaacapp/Izaacapp/main/tailwindcss.svg" media="(prefers-color-scheme: dark)">
+    <img src="https://raw.githubusercontent.com/Izaacapp/Izaacapp/main/tailwindcss.svg" width="24" height="24">
   </picture>
    <picture>
     <source srcset="https://raw.githubusercontent.com/Izaacapp/Izaacapp/main/typst-color.svg" media="(prefers-color-scheme: dark)">
@@ -233,7 +309,7 @@
     <source srcset="https://raw.githubusercontent.com/Izaacapp/Izaacapp/main/ubuntu-color.svg" media="(prefers-color-scheme: dark)">
     <img src="https://raw.githubusercontent.com/Izaacapp/Izaacapp/main/ubuntu-color.svg" width="24" height="24">
   </picture>
-  <!-- Row 10 -->
+  <!-- Row 13 -->
    <picture>
     <source srcset="https://raw.githubusercontent.com/Izaacapp/Izaacapp/main/vim-color.svg" media="(prefers-color-scheme: dark)">
     <img src="https://raw.githubusercontent.com/Izaacapp/Izaacapp/main/vim-color.svg" width="24" height="24">
@@ -241,5 +317,9 @@
    <picture>
     <source srcset="https://raw.githubusercontent.com/Izaacapp/Izaacapp/main/zsh-color.svg" media="(prefers-color-scheme: dark)">
     <img src="https://raw.githubusercontent.com/Izaacapp/Izaacapp/main/zsh-color.svg" width="24" height="24">
+  </picture>
+   <picture>
+    <source srcset="https://raw.githubusercontent.com/Izaacapp/Izaacapp/main/zsh.svg" media="(prefers-color-scheme: dark)">
+    <img src="https://raw.githubusercontent.com/Izaacapp/Izaacapp/main/zsh.svg" width="24" height="24">
   </picture>
 </div>
