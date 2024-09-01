@@ -7,7 +7,6 @@
 
 ## Languages & Tools
 
-
 <div align="center">
   <!-- Row 1 -->
    <picture>
@@ -122,8 +121,8 @@
     <img src="https://raw.githubusercontent.com/Izaacapp/Izaacapp/main/java-icon.svg" width="24" height="24">
   </picture>
    <picture>
-    <source srcset="https://raw.githubusercontent.com/Izaacapp/Izaacapp/Izaacapp/main/javascript-color.svg" media="(prefers-color-scheme: dark)">
-    <img src="https://raw.githubusercontent.com/Izaacapp/Izaacapp/Izaacapp/main/javascript-color.svg" width="24" height="24">
+    <source srcset="https://raw.githubusercontent.com/Izaacapp/Izaacapp/main/javascript-color.svg" media="(prefers-color-scheme: dark)">
+    <img src="https://raw.githubusercontent.com/Izaacapp/Izaacapp/main/javascript-color.svg" width="24" height="24">
   </picture>
   <!-- Row 7 -->
    <picture>
