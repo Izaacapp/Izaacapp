@@ -40,10 +40,6 @@
     <img src="https://raw.githubusercontent.com/Izaacapp/Izaacapp/main/anaconda-color.svg" width="24" height="24">
   </picture>
    <picture>
-    <source srcset="https://raw.githubusercontent.com/Izaacapp/Izaacapp/main/anaconda.svg" media="(prefers-color-scheme: dark)">
-    <img src="https://raw.githubusercontent.com/Izaacapp/Izaacapp/main/anaconda.svg" width="24" height="24">
-  </picture>
-   <picture>
     <source srcset="https://raw.githubusercontent.com/Izaacapp/Izaacapp/main/archlinux-color.svg" media="(prefers-color-scheme: dark)">
     <img src="https://raw.githubusercontent.com/Izaacapp/Izaacapp/main/archlinux-color.svg" width="24" height="24">
   </picture>
