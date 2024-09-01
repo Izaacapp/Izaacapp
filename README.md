@@ -51,10 +51,7 @@
     <source srcset="https://raw.githubusercontent.com/Izaacapp/Izaacapp/main/c-color.svg" media="(prefers-color-scheme: dark)">
     <img src="https://raw.githubusercontent.com/Izaacapp/Izaacapp/main/c-color.svg" width="24" height="24">
   </picture>
-   <picture>
-    <source srcset="https://raw.githubusercontent.com/Izaacapp/Izaacapp/main/c.svg" media="(prefers-color-scheme: dark)">
-    <img src="https://raw.githubusercontent.com/Izaacapp/Izaacapp/main/c.svg" width="24" height="24">
-  </picture>
+   
   <!-- Row 3 -->
    <picture>
     <source srcset="https://raw.githubusercontent.com/Izaacapp/Izaacapp/main/codeproject-color.svg" media="(prefers-color-scheme: dark)">
@@ -81,10 +78,7 @@
     <img src="https://raw.githubusercontent.com/Izaacapp/Izaacapp/main/dotenv-color.svg" width="24" height="24">
   </picture>
   <!-- Row 4 -->
-   <picture>
-    <source srcset="https://raw.githubusercontent.com/Izaacapp/Izaacapp/main/dotenv.svg" media="(prefers-color-scheme: dark)">
-    <img src="https://raw.githubusercontent.com/Izaacapp/Izaacapp/main/dotenv.svg" width="24" height="24">
-  </picture>
+   
    <picture>
     <source srcset="https://raw.githubusercontent.com/Izaacapp/Izaacapp/main/elixir-color.svg" media="(prefers-color-scheme: dark)">
     <img src="https://raw.githubusercontent.com/Izaacapp/Izaacapp/main/elixir-color.svg" width="24" height="24">
@@ -101,18 +95,10 @@
     <source srcset="https://raw.githubusercontent.com/Izaacapp/Izaacapp/main/gnu-color.svg" media="(prefers-color-scheme: dark)">
     <img src="https://raw.githubusercontent.com/Izaacapp/Izaacapp/main/gnu-color.svg" width="24" height="24">
   </picture>
-   <picture>
-    <source srcset="https://raw.githubusercontent.com/Izaacapp/Izaacapp/main/gnu.svg" media="(prefers-color-scheme: dark)">
-    <img src="https://raw.githubusercontent.com/Izaacapp/Izaacapp/main/gnu.svg" width="24" height="24">
-  </picture>
   <!-- Row 5 -->
    <picture>
     <source srcset="https://raw.githubusercontent.com/Izaacapp/Izaacapp/main/gnubash-color.svg" media="(prefers-color-scheme: dark)">
     <img src="https://raw.githubusercontent.com/Izaacapp/Izaacapp/main/gnubash-color.svg" width="24" height="24">
-  </picture>
-   <picture>
-    <source srcset="https://raw.githubusercontent.com/Izaacapp/Izaacapp/main/gnubash.svg" media="(prefers-color-scheme: dark)">
-    <img src="https://raw.githubusercontent.com/Izaacapp/Izaacapp/main/gnubash.svg" width="24" height="24">
   </picture>
    <picture>
     <source srcset="https://raw.githubusercontent.com/Izaacapp/Izaacapp/main/go-color.svg" media="(prefers-color-scheme: dark)">
