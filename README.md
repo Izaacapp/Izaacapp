@@ -7,3 +7,14 @@
 
 ![Cephalostatine-1](https://raw.githubusercontent.com/Izaacapp/Izaacapp/main/Cephalostatine-1.svg)
 
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+  <style>
+    @media (prefers-color-scheme: dark) {
+      .cls-1 { fill: white; }
+    }
+    @media (prefers-color-scheme: light) {
+      .cls-1 { fill: black; }
+    }
+  </style>
+  <circle class="cls-1" cx="50" cy="50" r="40"/>
+</svg>
