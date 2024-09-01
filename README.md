@@ -232,7 +232,7 @@
   <div style="margin-top: 20px;">
     <picture>
       <source srcset="https://raw.githubusercontent.com/Izaacapp/Izaacapp/main/Cephalostatine-1.svg" media="(prefers-color-scheme: dark)">
-      <img src="https://raw.githubusercontent.com/Izaacapp/Izaacapp/main/Cephalostatine-1.svg" width="200" height="100">
+      <img src="https://raw.githubusercontent.com/Izaacapp/Izaacapp/main/Cephalostatine-1.svg" width="200" height="80">
     </picture>
   </div>
 </div>
