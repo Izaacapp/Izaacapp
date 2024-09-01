@@ -88,10 +88,6 @@
     <img src="https://raw.githubusercontent.com/Izaacapp/Izaacapp/main/git-color.svg" width="24" height="24">
   </picture>
    <picture>
-    <source srcset="https://raw.githubusercontent.com/Izaacapp/Izaacapp/main/git.svg" media="(prefers-color-scheme: dark)">
-    <img src="https://raw.githubusercontent.com/Izaacapp/Izaacapp/main/git.svg" width="24" height="24">
-  </picture>
-   <picture>
     <source srcset="https://raw.githubusercontent.com/Izaacapp/Izaacapp/main/gnu-color.svg" media="(prefers-color-scheme: dark)">
     <img src="https://raw.githubusercontent.com/Izaacapp/Izaacapp/main/gnu-color.svg" width="24" height="24">
   </picture>
@@ -118,20 +114,8 @@
   </picture>
   <!-- Row 6 -->
    <picture>
-    <source srcset="https://raw.githubusercontent.com/Izaacapp/Izaacapp/main/htmx.svg" media="(prefers-color-scheme: dark)">
-    <img src="https://raw.githubusercontent.com/Izaacapp/Izaacapp/main/htmx.svg" width="24" height="24">
-  </picture>
-   <picture>
     <source srcset="https://raw.githubusercontent.com/Izaacapp/Izaacapp/main/ibm-icon.svg" media="(prefers-color-scheme: dark)">
     <img src="https://raw.githubusercontent.com/Izaacapp/Izaacapp/main/ibm-icon.svg" width="24" height="24">
-  </picture>
-   <picture>
-    <source srcset="https://raw.githubusercontent.com/Izaacapp/Izaacapp/main/instructables-color.svg" media="(prefers-color-scheme: dark)">
-    <img src="https://raw.githubusercontent.com/Izaacapp/Izaacapp/main/instructables-color.svg" width="24" height="24">
-  </picture>
-   <picture>
-    <source srcset="https://raw.githubusercontent.com/Izaacapp/Izaacapp/main/instructables.svg" media="(prefers-color-scheme: dark)">
-    <img src="https://raw.githubusercontent.com/Izaacapp/Izaacapp/main/instructables.svg" width="24" height="24">
   </picture>
    <picture>
     <source srcset="https://raw.githubusercontent.com/Izaacapp/Izaacapp/main/java-icon.svg" media="(prefers-color-scheme: dark)">
@@ -145,10 +129,6 @@
    <picture>
     <source srcset="https://raw.githubusercontent.com/Izaacapp/Izaacapp/main/jupyter-color.svg" media="(prefers-color-scheme: dark)">
     <img src="https://raw.githubusercontent.com/Izaacapp/Izaacapp/main/jupyter-color.svg" width="24" height="24">
-  </picture>
-   <picture>
-    <source srcset="https://raw.githubusercontent.com/Izaacapp/Izaacapp/main/jupyter.svg" media="(prefers-color-scheme: dark)">
-    <img src="https://raw.githubusercontent.com/Izaacapp/Izaacapp/main/jupyter.svg" width="24" height="24">
   </picture>
    <picture>
     <source srcset="https://raw.githubusercontent.com/Izaacapp/Izaacapp/main/kalilinux-color.svg" media="(prefers-color-scheme: dark)">
@@ -201,16 +181,8 @@
     <img src="https://raw.githubusercontent.com/Izaacapp/Izaacapp/main/python-color.svg" width="24" height="24">
   </picture>
    <picture>
-    <source srcset="https://raw.githubusercontent.com/Izaacapp/Izaacapp/main/python.svg" media="(prefers-color-scheme: dark)">
-    <img src="https://raw.githubusercontent.com/Izaacapp/Izaacapp/main/python.svg" width="24" height="24">
-  </picture>
-   <picture>
     <source srcset="https://raw.githubusercontent.com/Izaacapp/Izaacapp/main/pytorch-color.svg" media="(prefers-color-scheme: dark)">
     <img src="https://raw.githubusercontent.com/Izaacapp/Izaacapp/main/pytorch-color.svg" width="24" height="24">
-  </picture>
-   <picture>
-    <source srcset="https://raw.githubusercontent.com/Izaacapp/Izaacapp/main/pytorch.svg" media="(prefers-color-scheme: dark)">
-    <img src="https://raw.githubusercontent.com/Izaacapp/Izaacapp/main/pytorch.svg" width="24" height="24">
   </picture>
    <picture>
     <source srcset="https://raw.githubusercontent.com/Izaacapp/Izaacapp/main/qiskit-color.svg" media="(prefers-color-scheme: dark)">
@@ -258,10 +230,6 @@
    <picture>
     <source srcset="https://raw.githubusercontent.com/Izaacapp/Izaacapp/main/svelte-color.svg" media="(prefers-color-scheme: dark)">
     <img src="https://raw.githubusercontent.com/Izaacapp/Izaacapp/main/svelte-color.svg" width="24" height="24">
-  </picture>
-   <picture>
-    <source srcset="https://raw.githubusercontent.com/Izaacapp/Izaacapp/main/svelte.svg" media="(prefers-color-scheme: dark)">
-    <img src="https://raw.githubusercontent.com/Izaacapp/Izaacapp/main/svelte.svg" width="24" height="24">
   </picture>
    <picture>
     <source srcset="https://raw.githubusercontent.com/Izaacapp/Izaacapp/main/tailwindcss-color.svg" media="(prefers-color-scheme: dark)">
