@@ -8,32 +8,32 @@
 ## Languages & Tools
 
 <div align="center">
-  <!-- Row 1 -->
+  <!-- Row 1 (Swapped Icons) -->
    <picture>
-    <source srcset="https://raw.githubusercontent.com/Izaacapp/Izaacapp/main/Cephalostatine-1.svg" media="(prefers-color-scheme: dark)">
-    <img src="https://raw.githubusercontent.com/Izaacapp/Izaacapp/main/Cephalostatine-1.svg" width="48" height="48">
+    <source srcset="https://raw.githubusercontent.com/Izaacapp/Izaacapp/main/tailwindcss-color.svg" media="(prefers-color-scheme: dark)">
+    <img src="https://raw.githubusercontent.com/Izaacapp/Izaacapp/main/tailwindcss-color.svg" width="48" height="48">
   </picture>
    <picture>
-    <source srcset="https://raw.githubusercontent.com/Izaacapp/Izaacapp/main/Kalialt.svg" media="(prefers-color-scheme: dark)">
-    <img src="https://raw.githubusercontent.com/Izaacapp/Izaacapp/main/Kalialt.svg" width="48" height="48">
+    <source srcset="https://raw.githubusercontent.com/Izaacapp/Izaacapp/main/typst-color.svg" media="(prefers-color-scheme: dark)">
+    <img src="https://raw.githubusercontent.com/Izaacapp/Izaacapp/main/typst-color.svg" width="48" height="48">
   </picture>
    <picture>
-    <source srcset="https://raw.githubusercontent.com/Izaacapp/Izaacapp/main/MacPorts_Logo.svg" media="(prefers-color-scheme: dark)">
-    <img src="https://raw.githubusercontent.com/Izaacapp/Izaacapp/main/MacPorts_Logo.svg" width="48" height="48">
+    <source srcset="https://raw.githubusercontent.com/Izaacapp/Izaacapp/main/ubuntu-color.svg" media="(prefers-color-scheme: dark)">
+    <img src="https://raw.githubusercontent.com/Izaacapp/Izaacapp/main/ubuntu-color.svg" width="48" height="48">
   </picture>
    <picture>
-    <source srcset="https://raw.githubusercontent.com/Izaacapp/Izaacapp/main/Parallels_logo.svg" media="(prefers-color-scheme: dark)">
-    <img src="https://raw.githubusercontent.com/Izaacapp/Izaacapp/main/Parallels_logo.svg" width="48" height="48">
+    <source srcset="https://raw.githubusercontent.com/Izaacapp/Izaacapp/main/vim-color.svg" media="(prefers-color-scheme: dark)">
+    <img src="https://raw.githubusercontent.com/Izaacapp/Izaacapp/main/vim-color.svg" width="48" height="48">
   </picture>
    <picture>
-    <source srcset="https://raw.githubusercontent.com/Izaacapp/Izaacapp/main/TexasInstruments-Logo.svg" media="(prefers-color-scheme: dark)">
-    <img src="https://raw.githubusercontent.com/Izaacapp/Izaacapp/main/TexasInstruments-Logo.svg" width="48" height="48">
+    <source srcset="https://raw.githubusercontent.com/Izaacapp/Izaacapp/main/zsh-color.svg" media="(prefers-color-scheme: dark)">
+    <img src="https://raw.githubusercontent.com/Izaacapp/Izaacapp/main/zsh-color.svg" width="48" height="48">
   </picture>
+  <!-- Row 2 -->
    <picture>
     <source srcset="https://raw.githubusercontent.com/Izaacapp/Izaacapp/main/amazonwebservices-color.svg" media="(prefers-color-scheme: dark)">
     <img src="https://raw.githubusercontent.com/Izaacapp/Izaacapp/main/amazonwebservices-color.svg" width="48" height="48">
   </picture>
-  <!-- Row 2 -->
    <picture>
     <source srcset="https://raw.githubusercontent.com/Izaacapp/Izaacapp/main/anaconda-color.svg" media="(prefers-color-scheme: dark)">
     <img src="https://raw.githubusercontent.com/Izaacapp/Izaacapp/main/anaconda-color.svg" width="48" height="48">
@@ -47,7 +47,7 @@
     <img src="https://raw.githubusercontent.com/Izaacapp/Izaacapp/main/astro-color.svg" width="48" height="48">
   </picture>
    <picture>
-    <source srcset="https://raw.githubusercontent.com/Izaacapp/Izaacapp/main/c-color.svg" media="(prefers-color-scheme: dark)">
+    <source srcset="https://raw.githubusercontent.com/Izaacapp/Izaacapp/Izaacapp/main/c-color.svg" media="(prefers-color-scheme: dark)">
     <img src="https://raw.githubusercontent.com/Izaacapp/Izaacapp/main/c-color.svg" width="48" height="48">
   </picture>
    
@@ -209,30 +209,25 @@
     <source srcset="https://raw.githubusercontent.com/Izaacapp/Izaacapp/main/starship-color.svg" media="(prefers-color-scheme: dark)">
     <img src="https://raw.githubusercontent.com/Izaacapp/Izaacapp/main/starship-color.svg" width="48" height="48">
   </picture>
-  <!-- Row 12 -->
+  <!-- Row 12 (Bigger Icons) -->
    <picture>
-    <source srcset="https://raw.githubusercontent.com/Izaacapp/Izaacapp/main/svelte-color.svg" media="(prefers-color-scheme: dark)">
-    <img src="https://raw.githubusercontent.com/Izaacapp/Izaacapp/main/svelte-color.svg" width="48" height="48">
+    <source srcset="https://raw.githubusercontent.com/Izaacapp/Izaacapp/main/Cephalostatine-1.svg" media="(prefers-color-scheme: dark)">
+    <img src="https://raw.githubusercontent.com/Izaacapp/Izaacapp/main/Cephalostatine-1.svg" width="96" height="96">
   </picture>
    <picture>
-    <source srcset="https://raw.githubusercontent.com/Izaacapp/Izaacapp/main/tailwindcss-color.svg" media="(prefers-color-scheme: dark)">
-    <img src="https://raw.githubusercontent.com/Izaacapp/Izaacapp/main/tailwindcss-color.svg" width="48" height="48">
+    <source srcset="https://raw.githubusercontent.com/Izaacapp/Izaacapp/main/Kalialt.svg" media="(prefers-color-scheme: dark)">
+    <img src="https://raw.githubusercontent.com/Izaacapp/Izaacapp/main/Kalialt.svg" width="96" height="96">
   </picture>
    <picture>
-    <source srcset="https://raw.githubusercontent.com/Izaacapp/Izaacapp/main/typst-color.svg" media="(prefers-color-scheme: dark)">
-    <img src="https://raw.githubusercontent.com/Izaacapp/Izaacapp/main/typst-color.svg" width="48" height="48">
+    <source srcset="https://raw.githubusercontent.com/Izaacapp/Izaacapp/main/MacPorts_Logo.svg" media="(prefers-color-scheme: dark)">
+    <img src="https://raw.githubusercontent.com/Izaacapp/Izaacapp/main/MacPorts_Logo.svg" width="96" height="96">
   </picture>
    <picture>
-    <source srcset="https://raw.githubusercontent.com/Izaacapp/Izaacapp/main/ubuntu-color.svg" media="(prefers-color-scheme: dark)">
-    <img src="https://raw.githubusercontent.com/Izaacapp/Izaacapp/main/ubuntu-color.svg" width="48" height="48">
-  </picture>
-  <!-- Row 13 -->
-   <picture>
-    <source srcset="https://raw.githubusercontent.com/Izaacapp/Izaacapp/main/vim-color.svg" media="(prefers-color-scheme: dark)">
-    <img src="https://raw.githubusercontent.com/Izaacapp/Izaacapp/main/vim-color.svg" width="48" height="48">
+    <source srcset="https://raw.githubusercontent.com/Izaacapp/Izaacapp/main/Parallels_logo.svg" media="(prefers-color-scheme: dark)">
+    <img src="https://raw.githubusercontent.com/Izaacapp/Izaacapp/main/Parallels_logo.svg" width="96" height="96">
   </picture>
    <picture>
-    <source srcset="https://raw.githubusercontent.com/Izaacapp/Izaacapp/main/zsh-color.svg" media="(prefers-color-scheme: dark)">
-    <img src="https://raw.githubusercontent.com/Izaacapp/Izaacapp/main/zsh-color.svg" width="48" height="48">
+    <source srcset="https://raw.githubusercontent.com/Izaacapp/Izaacapp/main/TexasInstruments-Logo.svg" media="(prefers-color-scheme: dark)">
+    <img src="https://raw.githubusercontent.com/Izaacapp/Izaacapp/main/TexasInstruments-Logo.svg" width="96" height="96">
   </picture>
 </div>
