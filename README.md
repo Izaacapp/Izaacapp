@@ -218,16 +218,8 @@
   </picture>
   <!-- Row 10 -->
    <picture>
-    <source srcset="https://raw.githubusercontent.com/Izaacapp/Izaacapp/main/qiskit.svg" media="(prefers-color-scheme: dark)">
-    <img src="https://raw.githubusercontent.com/Izaacapp/Izaacapp/main/qiskit.svg" width="24" height="24">
-  </picture>
-   <picture>
     <source srcset="https://raw.githubusercontent.com/Izaacapp/Izaacapp/main/r-color.svg" media="(prefers-color-scheme: dark)">
     <img src="https://raw.githubusercontent.com/Izaacapp/Izaacapp/main/r-color.svg" width="24" height="24">
-  </picture>
-   <picture>
-    <source srcset="https://raw.githubusercontent.com/Izaacapp/Izaacapp/main/r.svg" media="(prefers-color-scheme: dark)">
-    <img src="https://raw.githubusercontent.com/Izaacapp/Izaacapp/main/r.svg" width="24" height="24">
   </picture>
    <picture>
     <source srcset="https://raw.githubusercontent.com/Izaacapp/Izaacapp/main/raspberrypi-color.svg" media="(prefers-color-scheme: dark)">
@@ -253,10 +245,6 @@
    <picture>
     <source srcset="https://raw.githubusercontent.com/Izaacapp/Izaacapp/main/sqlite-color.svg" media="(prefers-color-scheme: dark)">
     <img src="https://raw.githubusercontent.com/Izaacapp/Izaacapp/main/sqlite-color.svg" width="24" height="24">
-  </picture>
-   <picture>
-    <source srcset="https://raw.githubusercontent.com/Izaacapp/Izaacapp/main/sqlite.svg" media="(prefers-color-scheme: dark)">
-    <img src="https://raw.githubusercontent.com/Izaacapp/Izaacapp/main/sqlite.svg" width="24" height="24">
   </picture>
    <picture>
     <source srcset="https://raw.githubusercontent.com/Izaacapp/Izaacapp/main/ssh-icon.svg" media="(prefers-color-scheme: dark)">
