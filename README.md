@@ -209,12 +209,8 @@
     <source srcset="https://raw.githubusercontent.com/Izaacapp/Izaacapp/main/starship-color.svg" media="(prefers-color-scheme: dark)">
     <img src="https://raw.githubusercontent.com/Izaacapp/Izaacapp/main/starship-color.svg" width="48" height="48">
   </picture>
-<!-- Row 12 (Adjusted Bigger Icons) -->
 <div align="center">
-   <picture>
-    <source srcset="https://raw.githubusercontent.com/Izaacapp/Izaacapp/main/Cephalostatine-1.svg" media="(prefers-color-scheme: dark)">
-    <img src="https://raw.githubusercontent.com/Izaacapp/Izaacapp/main/Cephalostatine-1.svg" width="120" height="80">
-  </picture>
+  <!-- Row 12 (Adjusted Bigger Icons) -->
    <picture>
     <source srcset="https://raw.githubusercontent.com/Izaacapp/Izaacapp/main/Kalialt.svg" media="(prefers-color-scheme: dark)">
     <img src="https://raw.githubusercontent.com/Izaacapp/Izaacapp/main/Kalialt.svg" width="100" height="100">
@@ -231,5 +227,13 @@
     <source srcset="https://raw.githubusercontent.com/Izaacapp/Izaacapp/main/TexasInstruments-Logo.svg" media="(prefers-color-scheme: dark)">
     <img src="https://raw.githubusercontent.com/Izaacapp/Izaacapp/main/TexasInstruments-Logo.svg" width="150" height="80">
   </picture>
+  
+  <!-- Cephalostatine-1 (Larger and Centered) -->
+  <div style="margin-top: 20px;">
+    <picture>
+      <source srcset="https://raw.githubusercontent.com/Izaacapp/Izaacapp/main/Cephalostatine-1.svg" media="(prefers-color-scheme: dark)">
+      <img src="https://raw.githubusercontent.com/Izaacapp/Izaacapp/main/Cephalostatine-1.svg" width="200" height="150">
+    </picture>
+  </div>
 </div>
 
