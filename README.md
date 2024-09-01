@@ -11,11 +11,11 @@
   <!-- Row 1 -->
    <picture>
     <source srcset="https://raw.githubusercontent.com/Izaacapp/Izaacapp/main/Cephalostatine-1.svg" media="(prefers-color-scheme: dark)">
-    <img src="https://raw.githubusercontent.com/Izaacapp/Izaacapp/main/Cephalostatine-1.svg" width="24" height="24">
+    <img src="https://raw.githubusercontent.com/Izaacapp/Izaacapp/main/Cephalostatine-1.svg" width="30" height="30">
   </picture>
   <picture>
     <source srcset="https://raw.githubusercontent.com/Izaacapp/Izaacapp/main/Kalialt.svg" media="(prefers-color-scheme: dark)">
-    <img src="https://raw.githubusercontent.com/Izaacapp/Izaacapp/main/Kalialt.svg" width="24" height="24">
+    <img src="https://raw.githubusercontent.com/Izaacapp/Izaacapp/main/Kalialt.svg" width="30" height="30">
   </picture>
    <picture>
     <source srcset="https://raw.githubusercontent.com/Izaacapp/Izaacapp/main/MacPorts_Logo.svg" media="(prefers-color-scheme: dark)">
