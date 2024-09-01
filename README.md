@@ -53,10 +53,6 @@
    
   <!-- Row 3 -->
    <picture>
-    <source srcset="https://raw.githubusercontent.com/Izaacapp/Izaacapp/main/codeproject-color.svg" media="(prefers-color-scheme: dark)">
-    <img src="https://raw.githubusercontent.com/Izaacapp/Izaacapp/main/codeproject-color.svg" width="24" height="24">
-  </picture>
-   <picture>
     <source srcset="https://raw.githubusercontent.com/Izaacapp/Izaacapp/main/cplusplus.svg" media="(prefers-color-scheme: dark)">
     <img src="https://raw.githubusercontent.com/Izaacapp/Izaacapp/main/cplusplus.svg" width="24" height="24">
   </picture>
