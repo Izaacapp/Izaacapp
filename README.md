@@ -92,8 +92,8 @@
     <img src="https://raw.githubusercontent.com/Izaacapp/Izaacapp/main/gnubash-color.svg" width="48" height="48">
   </picture>
    <picture>
-    <source srcset="https://raw.githubusercontent.com/Izaacapp/Izaacapp/main/go-color.svg" media="(prefers-color-scheme: dark)">
-    <img src="https://raw.githubusercontent.com/Izaacapp/Izaacapp/main/go-color.svg" width="48" height="48">
+    <source srcset="https://raw.githubusercontent.com/Izaacapp/Izaacapp/main/go-logo-1.svg" media="(prefers-color-scheme: dark)">
+    <img src="https://raw.githubusercontent.com/Izaacapp/Izaacapp/main/go-logo-1.svg" width="48" height="48">
   </picture>
    <picture>
     <source srcset="https://raw.githubusercontent.com/Izaacapp/Izaacapp/main/homebrew-color.svg" media="(prefers-color-scheme: dark)">
