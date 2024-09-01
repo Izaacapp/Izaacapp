@@ -131,10 +131,6 @@
     <img src="https://raw.githubusercontent.com/Izaacapp/Izaacapp/main/jupyter-color.svg" width="24" height="24">
   </picture>
    <picture>
-    <source srcset="https://raw.githubusercontent.com/Izaacapp/Izaacapp/main/kalilinux-color.svg" media="(prefers-color-scheme: dark)">
-    <img src="https://raw.githubusercontent.com/Izaacapp/Izaacapp/main/kalilinux-color.svg" width="24" height="24">
-  </picture>
-   <picture>
     <source srcset="https://raw.githubusercontent.com/Izaacapp/Izaacapp/main/kubernetes-color.svg" media="(prefers-color-scheme: dark)">
     <img src="https://raw.githubusercontent.com/Izaacapp/Izaacapp/main/kubernetes-color.svg" width="24" height="24">
   </picture>
@@ -148,24 +144,12 @@
   </picture>
   <!-- Row 8 -->
    <picture>
-    <source srcset="https://raw.githubusercontent.com/Izaacapp/Izaacapp/main/linux.svg" media="(prefers-color-scheme: dark)">
-    <img src="https://raw.githubusercontent.com/Izaacapp/Izaacapp/main/linux.svg" width="24" height="24">
-  </picture>
-   <picture>
     <source srcset="https://raw.githubusercontent.com/Izaacapp/Izaacapp/main/markdown.svg" media="(prefers-color-scheme: dark)">
     <img src="https://raw.githubusercontent.com/Izaacapp/Izaacapp/main/markdown.svg" width="24" height="24">
   </picture>
    <picture>
     <source srcset="https://raw.githubusercontent.com/Izaacapp/Izaacapp/main/php-color.svg" media="(prefers-color-scheme: dark)">
     <img src="https://raw.githubusercontent.com/Izaacapp/Izaacapp/main/php-color.svg" width="24" height="24">
-  </picture>
-   <picture>
-    <source srcset="https://raw.githubusercontent.com/Izaacapp/Izaacapp/main/platformio-color.svg" media="(prefers-color-scheme: dark)">
-    <img src="https://raw.githubusercontent.com/Izaacapp/Izaacapp/main/platformio-color.svg" width="24" height="24">
-  </picture>
-   <picture>
-    <source srcset="https://raw.githubusercontent.com/Izaacapp/Izaacapp/main/platformio.svg" media="(prefers-color-scheme: dark)">
-    <img src="https://raw.githubusercontent.com/Izaacapp/Izaacapp/main/platformio.svg" width="24" height="24">
   </picture>
    <picture>
     <source srcset="https://raw.githubusercontent.com/Izaacapp/Izaacapp/main/prisma-color.svg" media="(prefers-color-scheme: dark)">
@@ -236,10 +220,6 @@
     <img src="https://raw.githubusercontent.com/Izaacapp/Izaacapp/main/tailwindcss-color.svg" width="24" height="24">
   </picture>
    <picture>
-    <source srcset="https://raw.githubusercontent.com/Izaacapp/Izaacapp/main/tailwindcss.svg" media="(prefers-color-scheme: dark)">
-    <img src="https://raw.githubusercontent.com/Izaacapp/Izaacapp/main/tailwindcss.svg" width="24" height="24">
-  </picture>
-   <picture>
     <source srcset="https://raw.githubusercontent.com/Izaacapp/Izaacapp/main/typst-color.svg" media="(prefers-color-scheme: dark)">
     <img src="https://raw.githubusercontent.com/Izaacapp/Izaacapp/main/typst-color.svg" width="24" height="24">
   </picture>
@@ -255,9 +235,5 @@
    <picture>
     <source srcset="https://raw.githubusercontent.com/Izaacapp/Izaacapp/main/zsh-color.svg" media="(prefers-color-scheme: dark)">
     <img src="https://raw.githubusercontent.com/Izaacapp/Izaacapp/main/zsh-color.svg" width="24" height="24">
-  </picture>
-   <picture>
-    <source srcset="https://raw.githubusercontent.com/Izaacapp/Izaacapp/main/zsh.svg" media="(prefers-color-scheme: dark)">
-    <img src="https://raw.githubusercontent.com/Izaacapp/Izaacapp/main/zsh.svg" width="24" height="24">
   </picture>
 </div>
