@@ -16,11 +16,14 @@
   </a>
 </div>
 
-<!-- Signature Section -->
+<!-- Signature Section (Hidden in Dark Mode) -->
 <div align="center" style="margin-top: 30px;">
-  This repository was signed by:
-  <img src="https://github.com/Izaacapp/Izaacapp/blob/main/izaac's-Signature.png" alt="Izaac's Signature" width="300" height="auto">
+  <picture>
+    <source srcset="" media="(prefers-color-scheme: dark)">
+    <img src="https://github.com/Izaacapp/Izaacapp/blob/main/izaac's-Signature.png" alt="Izaac's Signature" width="300" height="auto">
+  </picture>
 </div>
+
 
 ## Languages & Tools
 
