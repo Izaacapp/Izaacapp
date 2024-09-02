@@ -1,5 +1,5 @@
 <!-- Cat PNG Header (Left Side) and Time PNG Header (Right Side) -->
-<div style="position: relative; width: 100%; display: flex; justify-content: space-between; align-items: center;">
+<div style="position: relative; width: 400%; display: flex; justify-content: space-between; align-items: center;">
   <img src="https://github.com/Izaacapp/Izaacapp/blob/main/cat.png" width="250" style="margin-left: 10px;" />
   <img src="https://github.com/Izaacapp/Izaacapp/blob/main/time.png" width="250" style="margin-right: 10px;" />
 </div>
