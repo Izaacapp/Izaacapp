@@ -1,11 +1,11 @@
-<!-- Cat PNG (Left Side) and Time PNG (Right Side) with Larger Gap -->
-<div style="display: flex; justify-content: space-between; align-items: center; width: 100%; padding: 0 100px;">
+<!-- Container for the Cat and Time PNGs -->
+<div style="display: flex; justify-content: space-between; align-items: center; width: 100%; padding: 0 50px; box-sizing: border-box;">
   <img src="https://github.com/Izaacapp/Izaacapp/blob/main/cat.png" alt="Cat Logo" style="width: 250px;">
   <img src="https://github.com/Izaacapp/Izaacapp/blob/main/time.png" alt="Time Logo" style="width: 250px;">
 </div>
 
 <!-- Wormhole GIF (Centered) -->
-<div align="center" style="margin: 0 auto; padding: 0; width: 100%; height: auto; background-color: #0D1117; overflow: hidden; box-sizing: border-box;">
+<div align="center" style="position: relative; margin: 0 auto; padding: 0; width: 100%; height: auto; background-color: #0D1117; overflow: hidden; box-sizing: border-box;">
   <a href="https://github.com/Izaacapp" style="display: block; width: 100%; height: auto; margin: 0; padding: 0;">
     <img src="https://github.com/Izaacapp/Izaacapp/blob/main/wm.gif" 
          style="display: block; width: 100%; height: auto; object-fit: cover; margin-top: 20px;">
