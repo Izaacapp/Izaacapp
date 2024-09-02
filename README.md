@@ -1,5 +1,5 @@
-<!-- Cat PNG (Left Side) and Time PNG (Right Side) -->
-<div style="display: flex; justify-content: space-between; align-items: center; width: 100%;">
+<!-- Cat PNG (Left Side) and Time PNG (Right Side) with Larger Gap -->
+<div style="display: flex; justify-content: space-between; align-items: center; width: 100%; padding: 0 100px;">
   <img src="https://github.com/Izaacapp/Izaacapp/blob/main/cat.png" alt="Cat Logo" style="width: 250px;">
   <img src="https://github.com/Izaacapp/Izaacapp/blob/main/time.png" alt="Time Logo" style="width: 250px;">
 </div>
@@ -17,6 +17,7 @@
   This repository was signed by:
   <img src="https://github.com/Izaacapp/Izaacapp/blob/main/izaac's-Signature.png" alt="Izaac's Signature" width="300" height="auto">
 </div>
+
 
 
 ## Languages & Tools
