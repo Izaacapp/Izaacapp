@@ -1,10 +1,4 @@
-<!-- Combined Image Above the Wormhole GIF -->
-<div align="center" style="margin-bottom: 20px;">
-  <picture>
-    <source srcset="" media="(prefers-color-scheme: dark)">
-    <img src="https://github.com/Izaacapp/Izaacapp/blob/main/cat%26time.png" alt="Cat and Time Logo" style="width: 250px; height: auto;">
-  </picture>
-</div>
+
 
 <!-- Wormhole GIF that changes based on the color scheme -->
 <div align="center" style="position: relative; margin: 20px auto 0; padding: 0; width: 100%; height: auto; background-color: #0D1117; overflow: hidden; box-sizing: border-box;">
