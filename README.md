@@ -5,7 +5,7 @@
 
 <!-- Time PNG Header (Right Side, moved further up) -->
 <div align="right" style="position: absolute; top: -50px; right: 10px;">
-  <img src="https://github.com/Izaacapp/Izaacapp/blob/main/time.png" alt="Time Logo" style="width: 250px; height: auto;">
+  <img src="https://github.com/Izaacapp/Izaacapp/blob/main/time.png" alt="Time Logo" style="width: 200px; height: auto;">
 </div>
 
 <!-- Wormhole GIF (Moved up) -->
