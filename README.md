@@ -20,7 +20,7 @@
 <div align="center" style="margin-top: 30px;">
   <picture>
     <source srcset="" media="(prefers-color-scheme: dark)">
-    <img src="https://github.com/Izaacapp/Izaacapp/blob/main/izaac's-Signature.png" alt="Izaac's Signature" width="300" height="auto">
+    <img src="https://github.com/Izaacapp/Izaacapp/blob/main/izaac's-Signature.png" alt="Izaac's Signature" width="400" height="auto">
   </picture>
 </div>
 
