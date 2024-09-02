@@ -1,10 +1,8 @@
 <!-- Container for Images Above the Wormhole GIF -->
-<div style="width: 100%; padding: 0 10px; margin-bottom: 20px;">
+<div style="display: flex; justify-content: center; align-items: center; margin-bottom: 20px; flex-wrap: wrap;">
   <!-- Flexbox Container for Centered Images with Spacing -->
-  <div style="display: flex; justify-content: center; align-items: center; gap: 40px;">
-    <img src="https://github.com/Izaacapp/Izaacapp/blob/main/cat.png" alt="Cat Logo" style="width: 250px;">
-    <img src="https://github.com/Izaacapp/Izaacapp/blob/main/time.png" alt="Time Logo" style="width: 250px;">
-  </div>
+  <img src="https://github.com/Izaacapp/Izaacapp/blob/main/cat.png" alt="Cat Logo" style="width: 250px; object-fit: contain;">
+  <img src="https://github.com/Izaacapp/Izaacapp/blob/main/time.png" alt="Time Logo" style="width: 250px; object-fit: contain; margin-left: 20px;">
 </div>
 
 <!-- Wormhole GIF (Centered) -->
