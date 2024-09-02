@@ -1,5 +1,5 @@
 <!-- Container for Images Above the Wormhole GIF -->
-<div style="width: 100%; padding: 0 10px; margin-bottom: 20px;">
+<div style="width: 100%; padding: 0 40px; margin-bottom: 20px;">
   <!-- Flexbox Container for Right-Aligned Images with Spacing -->
   <div style="display: flex; justify-content: flex-end; align-items: center; gap: 40px;">
     <img src="https://github.com/Izaacapp/Izaacapp/blob/main/cat.png" alt="Cat Logo" style="width: 250px;">
