@@ -12,7 +12,7 @@
 <div align="center" style="position: relative; margin: 0 auto; padding: 0; width: 100%; height: auto; background-color: #0D1117; overflow: hidden; box-sizing: border-box;">
   <a href="https://github.com/Izaacapp" style="display: block; width: 100%; height: auto; margin: 0; padding: 0;">
     <img src="https://github.com/Izaacapp/Izaacapp/blob/main/wm.gif" 
-         style="display: block; width: 100%; height: auto; object-fit: cover; margin-top: 120px;">
+         style="display: block; width: 100%; height: auto; object-fit: cover; margin-top: 20px;">
   </a>
 </div>
 
@@ -21,6 +21,7 @@
   This repository was signed by :
   <img src="https://github.com/Izaacapp/Izaacapp/blob/main/izaac's-Signature.png" alt="Izaac's Signature" width="300" height="auto">
 </div>
+
 
 
 
