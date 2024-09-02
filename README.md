@@ -3,8 +3,8 @@
   <img src="https://github.com/Izaacapp/Izaacapp/blob/main/cat.png" alt="Cat Logo" style="width: 250px; height: auto;">
 </div>
 
-<!-- Time PNG Header (Right Side, moved up) -->
-<div align="right" style="position: absolute; top: -20px; right: 10px;">
+<!-- Time PNG Header (Right Side, moved further up) -->
+<div align="right" style="position: absolute; top: -50px; right: 10px;">
   <img src="https://github.com/Izaacapp/Izaacapp/blob/main/time.png" alt="Time Logo" style="width: 250px; height: auto;">
 </div>
 
@@ -15,6 +15,13 @@
          style="display: block; width: 100%; height: auto; object-fit: cover; margin-top: 20px;">
   </a>
 </div>
+
+<!-- Signature Section -->
+<div align="center" style="margin-top: 30px;">
+  This repository was signed by :
+  <img src="https://github.com/Izaacapp/Izaacapp/blob/main/izaac's-Signature.png" alt="Izaac's Signature" width="300" height="auto">
+</div>
+
 
 <!-- Signature Section -->
 <div align="center" style="margin-top: 30px;">
