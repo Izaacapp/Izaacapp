@@ -1,5 +1,5 @@
 <!-- Flexbox Container for Centered Images with Spacing -->
-<div style="display: flex; justify-content: center; align-items: center; gap:100px; width: 100%; padding: 0 10px;">
+<div style="display: flex; justify-content: center; align-items: center; gap:200px; width: 100%; padding: 0 10px;">
   <img src="https://github.com/Izaacapp/Izaacapp/blob/main/cat.png" alt="Cat Logo" style="width: 250px;">
   <img src="https://github.com/Izaacapp/Izaacapp/blob/main/time.png" alt="Time Logo" style="width: 250px;">
 </div>
