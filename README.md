@@ -1,6 +1,9 @@
 <!-- Combined Image Above the Wormhole GIF -->
 <div align="center" style="margin-bottom: 20px;">
-  <img src="https://github.com/Izaacapp/Izaacapp/blob/main/cat%26time.png" alt="Cat and Time Logo" style="width: 500px; height: auto;">
+  <picture>
+    <source srcset="" media="(prefers-color-scheme: dark)">
+    <img src="https://github.com/Izaacapp/Izaacapp/blob/main/cat%26time.png" alt="Cat and Time Logo" style="width: 500px; height: auto;">
+  </picture>
 </div>
 
 <!-- Wormhole GIF that changes based on the color scheme -->
@@ -18,7 +21,6 @@
   This repository was signed by:
   <img src="https://github.com/Izaacapp/Izaacapp/blob/main/izaac's-Signature.png" alt="Izaac's Signature" width="300" height="auto">
 </div>
-
 
 ## Languages & Tools
 
