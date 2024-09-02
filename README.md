@@ -1,6 +1,6 @@
 <!-- Cat PNG Header (Left Side) and Time PNG Header (Right Side) -->
 <p align="center">
-  <img src="https://github.com/Izaacapp/Izaacapp/blob/main/cat.png" width="250" />
+  <img src="https://github.com/Izaacapp/Izaacapp/blob/main/cat.png" width="250" align="left" />
   <img src="https://github.com/Izaacapp/Izaacapp/blob/main/time.png" width="250" align="right" />
 </p>
 
