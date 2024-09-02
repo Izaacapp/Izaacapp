@@ -2,7 +2,7 @@
 <div align="center" style="margin-bottom: 20px;">
   <picture>
     <source srcset="" media="(prefers-color-scheme: dark)">
-    <img src="https://github.com/Izaacapp/Izaacapp/blob/main/cat%26time.png" alt="Cat and Time Logo" style="width: 100px; height: auto;">
+    <img src="https://github.com/Izaacapp/Izaacapp/blob/main/cat%26time.png" alt="Cat and Time Logo" style="width: 100px; height: 100;">
   </picture>
 </div>
 
