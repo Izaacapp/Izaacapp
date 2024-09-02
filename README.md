@@ -22,8 +22,6 @@
   <img src="./profile-3d-contrib/profile-night-view.svg" alt="3D Contribution Calendar" />
 </div>
 
-<!-- Languages & Tools Section -->
-<div align="center" style="margin-top: 30px;">
 
 ## Languages & Tools
 
