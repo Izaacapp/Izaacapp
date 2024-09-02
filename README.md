@@ -1,14 +1,14 @@
 <!-- Cat PNG Header (Left Side) and Time PNG Header (Right Side) -->
-<div style="position: relative; width: 100%; height: auto;">
-  <img src="https://github.com/Izaacapp/Izaacapp/blob/main/cat.png" width="250" style="position: absolute; top: 0; left: 10px;" />
-  <img src="https://github.com/Izaacapp/Izaacapp/blob/main/time.png" width="250" style="position: absolute; top: 0; right: 10px;" />
+<div style="width: 100%; position: relative; height: 0;">
+  <img src="https://github.com/Izaacapp/Izaacapp/blob/main/cat.png" width="250" style="position: absolute; top: 0; left: 0;" />
+  <img src="https://github.com/Izaacapp/Izaacapp/blob/main/time.png" width="250" style="position: absolute; top: 0; right: 0;" />
 </div>
 
 <!-- Wormhole GIF (Centered) -->
-<div align="center" style="position: relative; margin: 0 auto; padding: 0; width: 100%; height: auto; background-color: #0D1117; overflow: hidden; box-sizing: border-box;">
-  <a href="https://github.com/Izaacapp" style="display: block; width: 100%; height: auto; margin: 0; padding: 0;">
+<div align="center" style="position: relative; margin-top: 50px; width: 100%; height: auto; background-color: #0D1117; overflow: hidden; box-sizing: border-box;">
+  <a href="https://github.com/Izaacapp" style="display: block; width: 100%; height: auto; margin: 0 auto; padding: 0;">
     <img src="https://github.com/Izaacapp/Izaacapp/blob/main/wm.gif" 
-         style="display: block; width: 100%; height: auto; object-fit: cover; margin-top: 20px;">
+         style="display: block; width: 100%; height: auto; object-fit: cover;">
   </a>
 </div>
 
