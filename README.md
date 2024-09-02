@@ -1,7 +1,11 @@
-<!-- Container for the Cat and Time PNGs -->
-<div style="display: flex; justify-content: space-between; align-items: center; width: 100%; padding: 0 50px; box-sizing: border-box;">
-  <img src="https://github.com/Izaacapp/Izaacapp/blob/main/cat.png" alt="Cat Logo" style="width: 250px;">
-  <img src="https://github.com/Izaacapp/Izaacapp/blob/main/time.png" alt="Time Logo" style="width: 250px;">
+<!-- Flexbox Container for Centered Images -->
+<div style="display: flex; justify-content: center; align-items: center; width: 100%; box-sizing: border-box; margin-bottom: 20px;">
+  <div style="flex: 1; text-align: left;">
+    <img src="https://github.com/Izaacapp/Izaacapp/blob/main/cat.png" alt="Cat Logo" style="width: 250px;">
+  </div>
+  <div style="flex: 1; text-align: right;">
+    <img src="https://github.com/Izaacapp/Izaacapp/blob/main/time.png" alt="Time Logo" style="width: 250px;">
+  </div>
 </div>
 
 <!-- Wormhole GIF (Centered) -->
