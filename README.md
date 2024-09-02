@@ -1,7 +1,6 @@
-<!-- Time PNG Header -->
 <div align="right" style="position: absolute; top: 0; right: 0; margin: 10px;">
   <img src="https://github.com/Izaacapp/Izaacapp/blob/main/time.png" alt="Time Logo" style="width: 160px; height: auto;">
-</div
+</div>
 
 <!-- Wormhole GIF -->
 <div align="center" style="position: relative; margin: 0 auto; padding: 0; width: 100%; height: 100%; background-color: #0D1117; overflow: hidden; box-sizing: border-box;">
