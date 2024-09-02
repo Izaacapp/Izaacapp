@@ -17,18 +17,13 @@
   </picture>
 </div>
 
-
-
-
-
-
-
-
-
-<!-- Stats Section -->
+<!-- 3D Contribution Calendar Section -->
 <div align="center" style="margin-top: 30px;">
-  <img src="https://myreadme.vercel.app/api/embed/izaacapp?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
+  <img src="./profile-3d-contrib/profile-night-view.svg" alt="3D Contribution Calendar" />
 </div>
+
+<!-- Languages & Tools Section -->
+<div align="center" style="margin-top: 30px;">
 
 ## Languages & Tools
 
