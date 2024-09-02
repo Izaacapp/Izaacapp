@@ -1,24 +1,23 @@
-<!-- Cat PNG Header (Left Side) and Time PNG Header (Right Side) -->
-<div style="width: 100%; position: relative; height: 0;">
-  <img src="https://github.com/Izaacapp/Izaacapp/blob/main/cat.png" width="250" style="position: absolute; top: 0; left: 0;" />
-  <img src="https://github.com/Izaacapp/Izaacapp/blob/main/time.png" width="250" style="position: absolute; top: 0; right: 0;" />
+<!-- Cat PNG (Left Side) and Time PNG (Right Side) -->
+<div style="display: flex; justify-content: space-between; align-items: center; width: 100%;">
+  <img src="https://github.com/Izaacapp/Izaacapp/blob/main/cat.png" alt="Cat Logo" style="width: 250px;">
+  <img src="https://github.com/Izaacapp/Izaacapp/blob/main/time.png" alt="Time Logo" style="width: 250px;">
 </div>
 
 <!-- Wormhole GIF (Centered) -->
-<div align="center" style="position: relative; margin-top: 50px; width: 100%; height: auto; background-color: #0D1117; overflow: hidden; box-sizing: border-box;">
-  <a href="https://github.com/Izaacapp" style="display: block; width: 100%; height: auto; margin: 0 auto; padding: 0;">
+<div align="center" style="margin: 0 auto; padding: 0; width: 100%; height: auto; background-color: #0D1117; overflow: hidden; box-sizing: border-box;">
+  <a href="https://github.com/Izaacapp" style="display: block; width: 100%; height: auto; margin: 0; padding: 0;">
     <img src="https://github.com/Izaacapp/Izaacapp/blob/main/wm.gif" 
-         style="display: block; width: 100%; height: auto; object-fit: cover;">
+         style="display: block; width: 100%; height: auto; object-fit: cover; margin-top: 20px;">
   </a>
 </div>
 
-
-
 <!-- Signature Section -->
 <div align="center" style="margin-top: 30px;">
-  This repository was signed by :
+  This repository was signed by:
   <img src="https://github.com/Izaacapp/Izaacapp/blob/main/izaac's-Signature.png" alt="Izaac's Signature" width="300" height="auto">
 </div>
+
 
 ## Languages & Tools
 
