@@ -1,10 +1,14 @@
+</a>
+  <img src="https://github.com/Izaacapp/Izaacapp/blob/main/time.png" alt="Time Logo" style="position: absolute; top: 10px; right: 10px; width: 80px; height: auto;">
+</div>
+
+
+
 <div align="center" style="position: relative; margin: 0 auto; padding: 0; width: 100%; height: 100%; background-color: #0D1117; overflow: hidden; box-sizing: border-box;">
   <a href="https://github.com/Izaacapp" style="display: block; width: 100%; height: 100%; margin: 0; padding: 0;">
     <img src="https://github.com/Izaacapp/Izaacapp/blob/main/wm.gif" 
          style="display: block; width: 100%; height: 100%; object-fit: cover; margin: 0;">
-  </a>
-  <img src="https://github.com/Izaacapp/Izaacapp/blob/main/time.png" alt="Time Logo" style="position: absolute; top: 10px; right: 10px; width: 80px; height: auto;">
-</div>
+  
 
 <div align="center" style="margin-top: 30px;">
   This repository was signed by :
