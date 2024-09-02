@@ -1,5 +1,5 @@
 <!-- Cat PNG Header (Left Side) -->
-<div align="left" style="position: absolute; top: 0; left: 10px;">
+<div align="left" style="position: absolute; top: -50px; left: 10px;">
   <img src="https://github.com/Izaacapp/Izaacapp/blob/main/cat.png" alt="Cat Logo" style="width: 200px; height: auto;">
 </div>
 
