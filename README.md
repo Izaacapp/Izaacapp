@@ -1,7 +1,7 @@
 <!-- Cat PNG Header (Left Side) and Time PNG Header (Right Side) -->
-<div style="position: relative; width: 400%; display: flex; justify-content: space-between; align-items: center;">
-  <img src="https://github.com/Izaacapp/Izaacapp/blob/main/cat.png" width="250" style="margin-left: 10px;" />
-  <img src="https://github.com/Izaacapp/Izaacapp/blob/main/time.png" width="250" style="margin-right: 10px;" />
+<div style="position: relative; width: 100%; height: auto;">
+  <img src="https://github.com/Izaacapp/Izaacapp/blob/main/cat.png" width="250" style="position: absolute; top: 0; left: 10px;" />
+  <img src="https://github.com/Izaacapp/Izaacapp/blob/main/time.png" width="250" style="position: absolute; top: 0; right: 10px;" />
 </div>
 
 <!-- Wormhole GIF (Centered) -->
@@ -11,6 +11,7 @@
          style="display: block; width: 100%; height: auto; object-fit: cover; margin-top: 20px;">
   </a>
 </div>
+
 
 
 <!-- Signature Section -->
