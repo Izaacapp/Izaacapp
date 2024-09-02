@@ -1,18 +1,14 @@
 <!-- Flexbox Container for Centered Images -->
-<div style="display: flex; justify-content: center; align-items: center; width: 100%; box-sizing: border-box; margin-bottom: 20px;">
-  <div style="flex: 1; text-align: left;">
-    <img src="https://github.com/Izaacapp/Izaacapp/blob/main/cat.png" alt="Cat Logo" style="width: 250px;">
-  </div>
-  <div style="flex: 1; text-align: right;">
-    <img src="https://github.com/Izaacapp/Izaacapp/blob/main/time.png" alt="Time Logo" style="width: 250px;">
-  </div>
+<div style="display: flex; justify-content: space-between; align-items: center; width: 100%; box-sizing: border-box; padding: 0 10px;">
+  <img src="https://github.com/Izaacapp/Izaacapp/blob/main/cat.png" alt="Cat Logo" style="width: 250px;">
+  <img src="https://github.com/Izaacapp/Izaacapp/blob/main/time.png" alt="Time Logo" style="width: 250px;">
 </div>
 
 <!-- Wormhole GIF (Centered) -->
-<div align="center" style="position: relative; margin: 0 auto; padding: 0; width: 100%; height: auto; background-color: #0D1117; overflow: hidden; box-sizing: border-box;">
+<div align="center" style="position: relative; margin: 20px auto 0; padding: 0; width: 100%; height: auto; background-color: #0D1117; overflow: hidden; box-sizing: border-box;">
   <a href="https://github.com/Izaacapp" style="display: block; width: 100%; height: auto; margin: 0; padding: 0;">
     <img src="https://github.com/Izaacapp/Izaacapp/blob/main/wm.gif" 
-         style="display: block; width: 100%; height: auto; object-fit: cover; margin-top: 20px;">
+         style="display: block; width: 100%; height: auto; object-fit: cover;">
   </a>
 </div>
 
@@ -21,6 +17,7 @@
   This repository was signed by:
   <img src="https://github.com/Izaacapp/Izaacapp/blob/main/izaac's-Signature.png" alt="Izaac's Signature" width="300" height="auto">
 </div>
+
 
 
 
