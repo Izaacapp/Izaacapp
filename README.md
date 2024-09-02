@@ -1,6 +1,6 @@
 <!-- Container for the Combined Image Above the Wormhole GIF -->
 <div align="center" style="margin-bottom: 20px;">
-  <img src="https://github.com/Izaacapp/Izaacapp/blob/main/cat%26time.png" alt="Cat and Time Logo" style="width: 500px; height: auto;">
+  <img src="https://github.com/Izaacapp/Izaacapp/blob/main/cat%26time.png" alt="Cat and Time Logo" style="width: 400px; height: auto;">
 </div>
 
 <!-- Wormhole GIF (Centered) -->
