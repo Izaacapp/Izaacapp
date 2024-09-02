@@ -3,11 +3,6 @@
   <img src="https://github.com/Izaacapp/Izaacapp/blob/main/time.png" alt="Time Logo" style="width: 160px; height: auto;">
 </div>
 
-<!-- Cat PNG Header -->
-<div align="right" style="position: absolute; top: 170px; right: 10px;">
-  <img src="https://github.com/Izaacapp/Izaacapp/blob/main/cat.png" alt="Cat Logo" style="width: 160px; height: auto;">
-</div>
-
 <!-- Wormhole GIF -->
 <div align="center" style="position: relative; margin: 0 auto; padding: 0; width: 100%; height: 100%; background-color: #0D1117; overflow: hidden; box-sizing: border-box;">
   <a href="https://github.com/Izaacapp" style="display: block; width: 100%; height: 100%; margin: 0; padding: 0;">
