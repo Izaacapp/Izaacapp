@@ -1,13 +1,15 @@
-<!-- Container for the Combined Image Above the Wormhole GIF -->
+<!-- Combined Image Above the Wormhole GIF -->
 <div align="center" style="margin-bottom: 20px;">
   <img src="https://github.com/Izaacapp/Izaacapp/blob/main/cat%26time.png" alt="Cat and Time Logo" style="width: 500px; height: auto;">
 </div>
 
-<!-- Wormhole GIF (Centered) -->
+<!-- Wormhole GIF that changes based on the color scheme -->
 <div align="center" style="position: relative; margin: 20px auto 0; padding: 0; width: 100%; height: auto; background-color: #0D1117; overflow: hidden; box-sizing: border-box;">
   <a href="https://github.com/Izaacapp" style="display: block; width: 100%; height: auto; margin: 0; padding: 0;">
-    <img id="wormhole-gif" src="https://github.com/Izaacapp/Izaacapp/blob/main/wm.gif" 
-         style="display: block; width: 100%; height: auto; object-fit: cover;">
+    <picture>
+      <source srcset="https://github.com/Izaacapp/Izaacapp/blob/main/blackhole4.gif" media="(prefers-color-scheme: dark)">
+      <img src="https://github.com/Izaacapp/Izaacapp/blob/main/wm.gif" alt="Wormhole GIF" style="width: 100%; height: auto; object-fit: cover;">
+    </picture>
   </a>
 </div>
 
@@ -16,20 +18,6 @@
   This repository was signed by:
   <img src="https://github.com/Izaacapp/Izaacapp/blob/main/izaac's-Signature.png" alt="Izaac's Signature" width="300" height="auto">
 </div>
-
-<style>
-  /* Default light mode */
-  #wormhole-gif {
-    content: url('https://github.com/Izaacapp/Izaacapp/blob/main/wm.gif');
-  }
-
-  /* Dark mode */
-  @media (prefers-color-scheme: dark) {
-    #wormhole-gif {
-      content: url('https://github.com/Izaacapp/Izaacapp/blob/main/blackhole4.gif');
-    }
-  }
-</style>
 
 
 ## Languages & Tools
