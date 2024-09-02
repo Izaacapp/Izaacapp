@@ -18,6 +18,13 @@
 </div>
 
 
+
+
+
+
+
+
+
 <!-- Stats Section -->
 <div align="center" style="margin-top: 30px;">
   <img src="https://myreadme.vercel.app/api/embed/izaacapp?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
