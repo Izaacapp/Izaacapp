@@ -5,7 +5,7 @@
   <!-- Wormhole GIF slightly lower -->
   <a href="https://github.com/Izaacapp" style="display: block; width: 100%; height: 100%; margin: 0; padding: 0;">
     <img src="https://github.com/Izaacapp/Izaacapp/blob/main/wm.gif" 
-         style="display: block; width: 100%; height: 100%; object-fit: cover; margin: 0; margin-top: 30px;">
+         style="display: block; width: 400%; height: 800%; object-fit: cover; margin: 0; margin-top: 30px;">
   </a>
 </div>
 
