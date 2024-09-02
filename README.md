@@ -11,12 +11,6 @@
   <img src="https://github.com/Izaacapp/Izaacapp/blob/main/izaac's-Signature.png" alt="Izaac's Signature" width="300" height="auto">
 </div>
 
-
-<div align="center" style="margin-top: 30px;">
-  This repository was signed by :
-  <img src="https://github.com/Izaacapp/Izaacapp/blob/main/izaac's-Signature.png" alt="Izaac's Signature" width="300" height="auto">
-</div>
-
 ## Languages & Tools
 
 <div align="center">
