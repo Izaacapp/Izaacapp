@@ -1,5 +1,11 @@
+<!-- Time PNG Header -->
 <div align="right" style="position: absolute; top: 0; right: 0; margin: 10px;">
-  <img src="https://github.com/Izaacapp/Izaacapp/blob/main/time.png" alt="Time Logo" style="width: 300px; height: auto;">
+  <img src="https://github.com/Izaacapp/Izaacapp/blob/main/time.png" alt="Time Logo" style="width: 160px; height: auto;">
+</div>
+
+<!-- Cat PNG Header -->
+<div align="right" style="position: absolute; top: 170px; right: 10px;">
+  <img src="https://github.com/Izaacapp/Izaacapp/blob/main/cat.png" alt="Cat Logo" style="width: 160px; height: auto;">
 </div>
 
 <!-- Wormhole GIF -->
@@ -17,6 +23,7 @@
 </div>
 
 ## Languages & Tools
+
 
 <div align="center">
 
