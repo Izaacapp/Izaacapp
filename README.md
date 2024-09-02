@@ -1,8 +1,6 @@
-<!-- Container for Images Above the Wormhole GIF -->
-<div style="display: flex; justify-content: center; align-items: center; margin-bottom: 20px; flex-wrap: wrap;">
-  <!-- Flexbox Container for Centered Images with Spacing -->
-  <img src="https://github.com/Izaacapp/Izaacapp/blob/main/cat.png" alt="Cat Logo" style="width: 250px; object-fit: contain;">
-  <img src="https://github.com/Izaacapp/Izaacapp/blob/main/time.png" alt="Time Logo" style="width: 250px; object-fit: contain; margin-left: 20px;">
+<!-- Container for the Combined Image Above the Wormhole GIF -->
+<div align="center" style="margin-bottom: 20px;">
+  <img src="https://github.com/Izaacapp/Izaacapp/blob/main/cat%26time.png" alt="Cat and Time Logo" style="width: 500px; height: auto;">
 </div>
 
 <!-- Wormhole GIF (Centered) -->
@@ -12,13 +10,6 @@
          style="display: block; width: 100%; height: auto; object-fit: cover;">
   </a>
 </div>
-
-<!-- Signature Section -->
-<div align="center" style="margin-top: 30px;">
-  This repository was signed by:
-  <img src="https://github.com/Izaacapp/Izaacapp/blob/main/izaac's-Signature.png" alt="Izaac's Signature" width="300" height="auto">
-</div>
-
 
 
 
