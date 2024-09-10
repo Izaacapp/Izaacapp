@@ -18,9 +18,12 @@
 </div>
 
 <!-- 3D Contribution Calendar Section -->
-<div align="center" style="margin-top: 30px;">
-  <img src="./profile-3d-contrib/profile-night-view.svg" alt="3D Contribution Calendar" />
-</div>
+[![](./profile-summary-card-output/vue/0-profile-details.svg)](https://github.com/Izaacapp/github-profile-summary-cards)
+[![](./profile-summary-card-output/vue/1-repos-per-language.svg)](https://github.com/Izaacapp/github-profile-summary-cards)
+[![](./profile-summary-card-output/vue/2-most-commit-language.svg)](https://github.com/Izaacapp/github-profile-summary-cards)
+[![](./profile-summary-card-output/vue/3-stats.svg)](https://github.com/Izaacapp/github-profile-summary-cards)
+[![](./profile-summary-card-output/vue/4-productive-time.svg)](https://github.com/Izaacapp/github-profile-summary-cards)
+
 
 
 ## Languages & Tools
