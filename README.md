@@ -20,7 +20,6 @@
 <!-- 3D Contribution Calendar Section -->
 
 <div align="center">
-  <h2>GitHub Profile Summary</h2>
 
   <p>
     <img src="http://profile-data-beta.vercel.app/api/cards/profile-details?username=izaacapp&theme=outrun" alt="Profile Details Card"/>
