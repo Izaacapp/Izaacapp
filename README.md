@@ -40,10 +40,10 @@
 <br/>
 
 
+<div align="center" style="margin-top: 30px;">
+  <p><strong style="font-size:24px;">Languages & Tools:</strong></p>
 
-
-
-<div align="center">
+  
   <!-- Row 1 (Swapped Icons) -->
    <picture>
     <source srcset="https://raw.githubusercontent.com/Izaacapp/Izaacapp/main/tailwindcss-color.svg" media="(prefers-color-scheme: dark)">
