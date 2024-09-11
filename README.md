@@ -273,6 +273,10 @@
   </div>
 </div>
 
+<br/>
+<hr/>
+<br/>
+
 <div align="center" style="margin-top: 30px;">
   <a href="https://www.buymeacoffee.com/Izaacapp" target="_blank">
     <img src="https://github.com/Izaacapp/Izaacapp/blob/main/buymeacoffee-color.svg" width="48" height="48" alt="Buy Me a Coffee">
