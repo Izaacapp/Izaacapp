@@ -41,7 +41,7 @@
 
 
 <div align="center" style="margin-top: 30px;">
-  <p><strong style="font-size:24px;">Languages & Tools:</strong></p>
+  <p><strong style="font-size:24px;">Languages, Tools, Frameworks & Platforms (Distros)</strong></p>
 
   
   <!-- Row 1 (Swapped Icons) -->
