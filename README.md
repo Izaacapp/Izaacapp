@@ -19,12 +19,17 @@
 
 <!-- 3D Contribution Calendar Section -->
 ## GitHub Profile Summary
+<div align="center">
+  <h2>GitHub Profile Summary</h2>
 
-![](http://profile-data-beta.vercel.app/api/cards/profile-details?username=izaacapp&theme=outrun)
-![](http://profile-data-beta.vercel.app/api/cards/repos-per-language?username=izaacapp&theme=outrun)
-![](http://profile-data-beta.vercel.app/api/cards/most-commit-language?username=izaacapp&theme=outrun)
-![](http://profile-data-beta.vercel.app/api/cards/stats?username=izaacapp&theme=outrun)
-![](http://profile-data-beta.vercel.app/api/cards/productive-time?username=izaacapp&theme=outrun&utcOffset=8)
+  <p>
+    <img src="http://profile-data-beta.vercel.app/api/cards/profile-details?username=izaacapp&theme=outrun" alt="Profile Details Card"/>
+    <img src="http://profile-data-beta.vercel.app/api/cards/repos-per-language?username=izaacapp&theme=outrun" alt="Repos Per Language Card"/>
+    <img src="http://profile-data-beta.vercel.app/api/cards/most-commit-language?username=izaacapp&theme=outrun" alt="Most Commit Language Card"/>
+    <img src="http://profile-data-beta.vercel.app/api/cards/stats?username=izaacapp&theme=outrun" alt="Stats Card"/>
+    <img src="http://profile-data-beta.vercel.app/api/cards/productive-time?username=izaacapp&theme=outrun&utcOffset=8" alt="Productive Time Card"/>
+  </p>
+</div>
 
 
 
