@@ -18,9 +18,12 @@
 </div>
 
 <!-- 3D Contribution Calendar Section -->
+<br/>
+<hr/>
+<br/>
 
 <div align="center" style="margin-top: 100px;"> <!-- Increased margin-top to 100px -->
-  <h2>GitHub Profile Summary</h2>
+  
 
   <p style="margin-top: 20px;">
     <img src="http://profile-data-beta.vercel.app/api/cards/profile-details?username=izaacapp&theme=outrun" alt="Profile Details Card"/>
@@ -32,12 +35,15 @@
 </div>
 
 
+<br/>
+<hr/>
+<br/>
 
-## Languages & Tools
+
+
 
 
 <div align="center">
-
   <!-- Row 1 (Swapped Icons) -->
    <picture>
     <source srcset="https://raw.githubusercontent.com/Izaacapp/Izaacapp/main/tailwindcss-color.svg" media="(prefers-color-scheme: dark)">
