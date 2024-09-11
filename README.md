@@ -18,7 +18,7 @@
 </div>
 
 <!-- 3D Contribution Calendar Section -->
-## GitHub Profile Summary
+
 <div align="center">
   <h2>GitHub Profile Summary</h2>
 
