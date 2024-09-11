@@ -257,7 +257,7 @@
   </picture>
    <picture>
     <source srcset="https://raw.githubusercontent.com/Izaacapp/Izaacapp/main/Parallels_logo.svg" media="(prefers-color-scheme: dark)">
-    <img src="https://raw.githubusercontent.com/Izaacapp/Izaacapp/main/Parallels_logo.svg" width="175" height="80">
+    <img src="https://raw.githubusercontent.com/Izaacapp/Izaacapp/main/Parallels_logo.svg" width="180" height="60">
   </picture>
    <picture>
     <source srcset="https://raw.githubusercontent.com/Izaacapp/Izaacapp/main/TexasInstruments-Logo.svg" media="(prefers-color-scheme: dark)">
