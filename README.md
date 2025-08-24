@@ -2,7 +2,10 @@
 <!-- Wormhole GIF that changes based on the color scheme -->
 <div align="center" style="position: relative; margin: 20px auto 0; padding: 0; width: 100%; height: auto; background-color: #0D1117; overflow: hidden; box-sizing: border-box;">
   <a href="https://github.com/Izaacapp" style="display: block; width: 100%; height: auto; margin: 0; padding: 0;">
-    <img src="https://github.com/Izaacapp/Izaacapp/blob/main/assets/animations/wm.gif" alt="Wormhole GIF" style="width: 100%; height: auto; object-fit: cover;">
+    <picture>
+      <source srcset="https://github.com/Izaacapp/Izaacapp/blob/main/assets/animations/wm-dark.gif" media="(prefers-color-scheme: dark)">
+      <img src="https://github.com/Izaacapp/Izaacapp/blob/main/assets/animations/wm.gif" alt="Wormhole GIF" style="width: 100%; height: auto; object-fit: cover;">
+    </picture>
   </a>
 </div>
 
